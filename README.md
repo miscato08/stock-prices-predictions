@@ -17,6 +17,7 @@ Before you can run the notebook, you'll need to install several Python packages.
 * pandas
 * scikit-learn
 * matplotlib
+* seaborn
 
 ### Contributing
 We welcome contributions to improve the accuracy of our predictions or extend the functionality of our analysis. If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
